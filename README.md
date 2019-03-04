@@ -7,5 +7,5 @@ This sketch was created for an Arduino Uno (generic), but it's fully functional 
 - Limit switch.
 - 3 wires to connect everything.
 
-##Circuit schematics
+## Circuit schematics
 > Coming soon because internet is going nuts right now.
