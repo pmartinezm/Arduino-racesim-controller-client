@@ -6,6 +6,7 @@ This sketch was created for an Arduino Uno (generic), but it's fully functional 
 - 1k resistor.
 - Limit switch.
 - 3 wires to connect everything.
+- Any led (or Arduino built in) for indicating when the arduino is sending data to make troubleshooting easier.
 
 ## Circuit schematics
 > Coming soon because internet is going nuts right now.
