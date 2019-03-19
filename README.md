@@ -8,5 +8,5 @@ This sketch was created for an Arduino Uno (generic), but it's fully functional 
 - 3 wires to connect everything.
 - Any led (or Arduino built in) for indicating when the arduino is sending data to make troubleshooting easier.
 
-## Circuit schematics
-![Schematic](https://imgur.com/Gq6d3VP)
+## Circuit schematic
+![Schematic](https://i.imgur.com/Gq6d3VP.png)
